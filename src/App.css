@@ -1,0 +1,8 @@
+.phButton{
+  display: flex;
+  justify-content:flex-start !important;
+
+}
+button{
+  margin-top: 5%;
+}
