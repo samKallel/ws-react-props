@@ -17,7 +17,7 @@ const Profile = (props) => {
   )
 };
 Profile.propTypes = {
-    fullName: PropTypes.string.isRequired,
+    fullName: PropTypes.string,
     bio: PropTypes.string,
     profession: PropTypes.string,
     children: PropTypes.element,
